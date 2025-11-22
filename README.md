@@ -13,6 +13,8 @@ A lightweight, customizable countdown timer designed for presentations (PPT/Keyn
 <img width="375" height="125" alt="image" src="https://github.com/user-attachments/assets/faaa0edf-2174-45f6-a477-83214550b64f" />
 <img width="375" height="125" alt="image" src="https://github.com/user-attachments/assets/7f506713-bef3-47fe-b935-be044e7c13d5" />
 <img width="375" height="125" alt="image" src="https://github.com/user-attachments/assets/be89153b-ea29-42f0-b5f5-90c4f3b4865d" />
+<img width="375" height="125" alt="image" src="https://github.com/user-attachments/assets/9a9a3494-67af-4c67-8ded-9fa90cb6f5fc" />
+
 
 
 ## ✨ 核心功能
