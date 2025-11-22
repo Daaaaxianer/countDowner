@@ -36,11 +36,11 @@ A lightweight, customizable countdown timer designed for presentations (PPT/Keyn
 
 * 方式 1：直接运行（需 Python 环境）
 
-安装依赖：pip install pillow tkinter
+安装依赖：`pip install pillow tkinter`
 
-下载源码：git clone https://github.com/Daaaaxianer/countDowner.git
+下载源码：`git clone https://github.com/Daaaaxianer/countDowner.git`
 
-启动程序：python countDowner.py 或直接双击脚本（Windows 建议用pythonw.exe关联以隐藏终端）
+启动程序：`python countDowner.py` 或直接双击脚本（Windows 建议用pythonw.exe关联以隐藏终端）
 
 * 方式 2：下载可执行文件（无需 Python 环境）
 
