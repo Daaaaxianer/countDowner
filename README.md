@@ -6,6 +6,15 @@ A lightweight, customizable countdown timer designed for presentations (PPT/Keyn
 
 一款轻量可自定义的倒计时工具，专为演示场景（PPT/Keynote）设计，具备简洁的用户界面和灵活的配置选项。
 
+* 参数设置页面
+<img width="937" height="1036" alt="image" src="https://github.com/user-attachments/assets/b253e1db-3fd6-4f76-b53b-c4b5b4ca5cff" />
+
+* 正常/提醒/警告阶段示例
+<img width="375" height="125" alt="image" src="https://github.com/user-attachments/assets/faaa0edf-2174-45f6-a477-83214550b64f" />
+<img width="375" height="125" alt="image" src="https://github.com/user-attachments/assets/7f506713-bef3-47fe-b935-be044e7c13d5" />
+<img width="375" height="125" alt="image" src="https://github.com/user-attachments/assets/be89153b-ea29-42f0-b5f5-90c4f3b4865d" />
+
+
 ## ✨ 核心功能
 
 参数自定义：支持设置总时长、提醒时间、警告时间，满足不同演讲场景需求
