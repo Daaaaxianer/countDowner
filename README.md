@@ -3,7 +3,7 @@ countDowner - 轻量高效的 PPT 倒计时工具
 
 A lightweight, customizable countdown timer designed for presentations (PPT/Keynote), with a clean UI and flexible configuration options.
 
-✨ ## 核心功能
+## ✨ 核心功能
 
 参数自定义：支持设置总时长、提醒时间、警告时间，满足不同演讲场景需求
 
@@ -15,7 +15,7 @@ A lightweight, customizable countdown timer designed for presentations (PPT/Keyn
 
 无终端运行：打包后双击即可启动，无需依赖 Python 环境，不干扰演示流程
 
-🚀 ## 快速开始
+## 🚀 快速开始
 
 * 方式 1：直接运行（需 Python 环境）
 
@@ -29,7 +29,7 @@ A lightweight, customizable countdown timer designed for presentations (PPT/Keyn
 * 
 前往 Releases 下载对应系统的打包版本（Windows/macOS/Linux），双击即可运行。
 
-⚙️ ## 配置说明
+## ⚙️ 配置说明
 
 启动后自动弹出参数设置窗口，支持以下配置：
 
@@ -41,7 +41,7 @@ A lightweight, customizable countdown timer designed for presentations (PPT/Keyn
 
 超时设置：负计时模式或自定义文字模式（支持颜色配置）
 
-🎨 ## 使用场景
+## 🎨 使用场景
 
 课堂演示 / 学术报告：精准控制演讲时长，避免超时
 
@@ -49,7 +49,7 @@ A lightweight, customizable countdown timer designed for presentations (PPT/Keyn
 
 培训教学：分阶段提示教学环节，把控课堂节奏
 
-🛠️ ## 技术栈
+## 🛠️ 技术栈
 
 语言：Python 3.8+
 
