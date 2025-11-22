@@ -1,7 +1,10 @@
 # countDowner
-countDowner - 轻量高效的 汇报展示 倒计时工具
+
+countDowner - 轻量高效的 **汇报展示** 倒计时工具
 
 A lightweight, customizable countdown timer designed for presentations (PPT/Keynote), with a clean UI and flexible configuration options.
+
+一款轻量可自定义的倒计时工具，专为演示场景（PPT/Keynote）设计，具备简洁的用户界面和灵活的配置选项。
 
 ## ✨ 核心功能
 
@@ -43,7 +46,7 @@ A lightweight, customizable countdown timer designed for presentations (PPT/Keyn
 
 ## 🎨 使用场景
 
-课堂演示 / 学术报告：精准控制演讲时长，避免超时
+课堂演示/学术报告：精准控制演讲时长，避免超时
 
 会议发言：提醒发言人时间进度，提升会议效率
 
@@ -56,3 +59,15 @@ A lightweight, customizable countdown timer designed for presentations (PPT/Keyn
 框架：tkinter（UI）、Pillow（图片处理）
 
 打包：PyInstaller（支持跨平台打包）
+
+## ✅ 注意事项
+
+理论上支持 Windows/macOS/Linux 跨平台运行，打包时需在对应系统执行命令
+
+若设置窗口最小化按钮失效，检查系统窗口管理器设置（默认支持标准窗口操作）
+
+避免中文路径存放脚本或可执行文件，防止运行异常
+
+## 📄 许可证
+
+本项目基于 MIT 许可证开源，详见 LICENSE 文件。
