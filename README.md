@@ -3,10 +3,10 @@
 <div align="center">
   <img src="./images/countDowner_ico128.ico" alt="countDowner 手绘风格图标" width="100"/>
   <br/>
-  countDowner v0.1 手绘风格图标（沙漏+时间数字元素，1:1横纵比）
+  countDowner - 一款轻量 **汇报展示** 倒计时工具
 </div>
 
-countDowner - 一款轻量 **汇报展示** 倒计时工具
+
 
 A lightweight, customizable countdown timer designed for presentations (PPT/Keynote), with a clean UI and flexible configuration options.
 
