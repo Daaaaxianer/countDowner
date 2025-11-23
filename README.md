@@ -3,7 +3,7 @@
 <div align="center">
   <img src="./images/countDowner_ico128.ico" alt="countDowner 手绘风格图标" width="100"/>
   <br/>
-  countDowner - 一款轻量汇报展示倒计时工具
+  countDowner - 一款汇报展示倒计时的轻量工具
 </div>
 
 
