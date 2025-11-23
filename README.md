@@ -1,7 +1,7 @@
 # countDowner
 
 <div align="center">
-  <img src="./images/countDowner_ico128.ico" alt="countDowner 手绘风格图标" width="200"/>
+  <img src="./images/countDowner.png" alt="countDowner 手绘风格图标" width="200"/>
   <br/>
   countDowner - 一款汇报展示倒计时的轻量工具
   <br/>
