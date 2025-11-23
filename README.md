@@ -14,10 +14,11 @@ A lightweight, customizable countdown timer designed for presentations (PPT/Keyn
 
 * 参数设置页面
 
-<img width="937" height="1036" alt="image" src="https://github.com/user-attachments/assets/b253e1db-3fd6-4f76-b53b-c4b5b4ca5cff" />
+<img width="940" height="1040" alt="image" src="https://github.com/user-attachments/assets/a3e0b3dd-66c6-43da-9495-97c78e7e683c" />
 
 
 * 正常/提醒/警告阶段示例
+
 
 <img width="375" height="125" alt="image" src="https://github.com/user-attachments/assets/faaa0edf-2174-45f6-a477-83214550b64f" />
 <img width="375" height="125" alt="image" src="https://github.com/user-attachments/assets/7f506713-bef3-47fe-b935-be044e7c13d5" />
