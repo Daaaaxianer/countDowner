@@ -404,7 +404,11 @@ class PPTCountdown:
         bottom_frame.pack(fill=tk.X, padx=30, pady=20)
 
         # 版权信息
-        copyright_label = ttk.Label(bottom_frame, text="Copyright ©xian. All rights reserved.", font=("SimHei", 9))
+        copyright_label = ttk.Label(
+            bottom_frame, 
+            text="Copyright ©xian. All rights reserved.", 
+            font=("Arial", 9)  # 关键修改：优先Arial字体
+        )
         copyright_label.pack(pady=(0, 5))
 
         # GitHub链接
@@ -413,7 +417,7 @@ class PPTCountdown:
         github_btn = ttk.Button(github_frame, text="countDowner",
                                 command=lambda: webbrowser.open("https://github.com/Daaaaxianer/countDowner"))
         github_btn.pack(side=tk.LEFT, padx=5)
-        extra_label = ttk.Label(github_frame, text="倒计时工具 | 简洁高效", font=("SimHei", 9))
+        extra_label = ttk.Label(github_frame, text="倒计时工具 | 简洁高效", font=("SimHei", 10))
         extra_label.pack(side=tk.LEFT)
 
     def _bind_color_preview(self, parent, vars_dict, style_labels):
