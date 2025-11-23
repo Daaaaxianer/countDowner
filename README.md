@@ -1,6 +1,6 @@
 # countDowner
 
-countDowner - 轻量高效的 **汇报展示** 倒计时工具
+countDowner - 一款轻量 **汇报展示** 倒计时工具
 
 A lightweight, customizable countdown timer designed for presentations (PPT/Keynote), with a clean UI and flexible configuration options.
 
