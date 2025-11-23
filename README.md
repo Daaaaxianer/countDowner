@@ -4,9 +4,8 @@
   <img src="./images/countDowner_ico128.ico" alt="countDowner 手绘风格图标" width="100"/>
   <br/>
   countDowner - 一款汇报展示倒计时的轻量工具
+  <br/>
 </div>
-
-
 
 A lightweight, customizable countdown timer designed for presentations (PPT/Keynote), with a clean UI and flexible configuration options.
 
