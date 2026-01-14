@@ -42,7 +42,7 @@ A lightweight, customizable countdown timer designed for presentations (PPT/Keyn
 
 ## 🚀 快速开始
 
-* 方式 1：直接运行（需 Python 环境）
+* 方式 1：直接运行（需 Python ≥3.10 环境）
 
 安装依赖：`pip install pillow tkinter`
 
