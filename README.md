@@ -52,7 +52,7 @@ A lightweight, customizable countdown timer designed for presentations (PPT/Keyn
 
 * 方式 2：下载可执行文件（无需 Python 环境）
 
-前往 Releases 下载对应系统的打包版本（Windows/macOS/Linux），双击即可运行。
+前往 Releases 下载对应系统的打包版本（仅Windows），双击即可运行。
 
 ## ⚙️ 配置说明
 
